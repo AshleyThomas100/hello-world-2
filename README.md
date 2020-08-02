@@ -3,6 +3,7 @@ Mission statement.
 I suck. I make the most stupid decisions and I lose everything. I'm even 'losing' my house in an attempt to pay back my debts and live an honest, more relaxed life. 
 But, we know that's not going to happen, because I'll see all that money in the bank and I won't do the right thing. I'll drink, smoke, get pros, and lose all the money. That's what I mean - a real loser. A sucker. I finally realise the meaning of that word.
 I'm really going to try to get it right this time! But I said that last time too.
+I just know, whatever I do, it's NOT going to work. Which is a pretty shit thing to know.
 I have a loose plan to remaster JDEdwards into a light ERP but I wanna call it FRP, for families. I'm not sure it's legal but it's worth a shot.
 There's a lot of unused functionality in JDE, unused table columns, from the point of view a small family business.
 With today's modern options such as Javascript, web services, in-memory database and full stack development including Blockchain perhaps.
